@@ -1,0 +1,11 @@
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.csprojAssemblyReference.cache
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.csproj.CoreCompileInputs.cache
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.AssemblyInfoInputs.cache
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.AssemblyInfo.cs
+C:\source\OnlineBookingSystem\Order\bin\Debug\netcoreapp2.0\Order.deps.json
+C:\source\OnlineBookingSystem\Order\bin\Debug\netcoreapp2.0\Order.runtimeconfig.json
+C:\source\OnlineBookingSystem\Order\bin\Debug\netcoreapp2.0\Order.runtimeconfig.dev.json
+C:\source\OnlineBookingSystem\Order\bin\Debug\netcoreapp2.0\Order.dll
+C:\source\OnlineBookingSystem\Order\bin\Debug\netcoreapp2.0\Order.pdb
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.dll
+C:\source\OnlineBookingSystem\Order\obj\Debug\netcoreapp2.0\Order.pdb

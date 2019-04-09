@@ -1,0 +1,11 @@
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.csprojAssemblyReference.cache
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.csproj.CoreCompileInputs.cache
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.AssemblyInfoInputs.cache
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.AssemblyInfo.cs
+C:\source\OnlineBookingSystem\ApiGateWay\bin\Debug\netcoreapp2.0\ApiGateWay.deps.json
+C:\source\OnlineBookingSystem\ApiGateWay\bin\Debug\netcoreapp2.0\ApiGateWay.runtimeconfig.json
+C:\source\OnlineBookingSystem\ApiGateWay\bin\Debug\netcoreapp2.0\ApiGateWay.runtimeconfig.dev.json
+C:\source\OnlineBookingSystem\ApiGateWay\bin\Debug\netcoreapp2.0\ApiGateWay.dll
+C:\source\OnlineBookingSystem\ApiGateWay\bin\Debug\netcoreapp2.0\ApiGateWay.pdb
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.dll
+C:\source\OnlineBookingSystem\ApiGateWay\obj\Debug\netcoreapp2.0\ApiGateWay.pdb
